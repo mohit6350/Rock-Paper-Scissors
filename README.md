@@ -2,7 +2,7 @@
 CLI Rock-Paper-Scissors game in python
 
 # Output Looks like this
-==============================
+
  Enter 1 for 💎 ROCK 
  Enter 2 for 🧻 PAPER 
  Enter 3 for ✂  SCISSORS      
