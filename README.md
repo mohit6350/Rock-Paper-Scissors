@@ -15,7 +15,6 @@ CLI Rock-Paper-Scissors game in python
  
 🐍 Python wins !
 
-==============================
  Enter 1 for 💎 ROCK     
  Enter 2 for 🧻 PAPER     
  Enter 3 for ✂  SCISSORS 
@@ -27,7 +26,8 @@ CLI Rock-Paper-Scissors game in python
  Python choose : 2
  
 😱 It's a Tie !
-==============================
+
+
  Enter 1 for 💎 ROCK
  Enter 2 for 🧻 PAPER
  Enter 3 for ✂  SCISSORS
